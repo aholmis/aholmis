@@ -30,7 +30,7 @@ Console.WriteLine($"Total time: {sw.Elapsed}");
 public static class Runner
 {
     private const string DirCheckRoles = @"C:\Temp\CheckRoles";
-    private const string ConnectionString = @"server=osl3849.verit.dnv.com\DevTest;uid=npsdevtest;pwd=backups-illness-ensue-copy-9ZS;database=NPS_Security;Enlist=false;TrustServerCertificate=True";
+    private const string ConnectionString = @"";
 
     static Runner()
     {
