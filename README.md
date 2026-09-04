@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aholmis
 - 👀 I’m interested in cyber security, and secure development in .NET
-- 🌱 I’m currently learning, and always will be
+- 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on ethical projects
 - 📫 This is also my twitter handle
 
